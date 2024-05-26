@@ -1,2 +1,2 @@
-# Ciencia-de-dados
-Estudos e projetos pessoais de ciência de dados
+# Ciencia de dados
+Projetos de ciência de dados desenvolvidos.
