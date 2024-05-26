@@ -1,2 +1,2 @@
-# Ciencia de dados
-Projetos de ciência de dados desenvolvidos.
+# Projetos pessoais
+Lugar destinado a projetos pessoais, para testar ideias.
